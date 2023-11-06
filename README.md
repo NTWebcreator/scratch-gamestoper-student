@@ -1,0 +1,2 @@
+# scratchゲーム防止ソフト
+scratchでゲームをやれないようにするためのchrome拡張。
