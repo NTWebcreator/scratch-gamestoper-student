@@ -1,2 +1,2 @@
-# scratch-
+# scratchゲーム防止
 scratchでゲームをやれないようにするためのchrome拡張。このchrome拡張を生徒のタブレットに入れる。
