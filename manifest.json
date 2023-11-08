@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name":"Scratchゲーム防止",
+    "version":1.0,
+    "description":"Scratchのサイトでゲームを遊べなくする拡張機能です。",
+    "content_script":[
+        {
+            "matches":["https://scratch.mit.edu/projects/*"],
+            "js":[""]
+        }
+    ]
+}
