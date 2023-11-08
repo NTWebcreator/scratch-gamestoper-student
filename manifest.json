@@ -6,7 +6,7 @@
     "content_script":[
         {
             "matches":["https://scratch.mit.edu/projects/*"],
-            "js":[""]
+            "js":["contentscript.js"]
         }
     ]
 }
